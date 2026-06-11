@@ -16,7 +16,6 @@ const krimmlerfaelle: CampsiteConfig = {
   brandKind: "Camping am Hotel Krimmlerfälle",
   regionLong: "Nationalpark Hohe Tauern · Salzburger Land · Österreich",
 
-  theme: "editorial",
   heroVariant: "center",
 
   claim: "Dein Stellplatz mit Blick auf die Wasserfälle",
@@ -216,7 +215,6 @@ const krimmlerfaelle: CampsiteConfig = {
   },
 
   kontakt: {
-    coords: { lat: 47.22191, lng: 12.17546 },
     tel: "+43 (0) 6564 – 7203",
     telHref: "tel:+4365647203",
     mail: "info@krimmlerfaelle.at",
