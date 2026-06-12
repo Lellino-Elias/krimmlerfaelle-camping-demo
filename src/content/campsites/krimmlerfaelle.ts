@@ -215,6 +215,7 @@ const krimmlerfaelle: CampsiteConfig = {
   },
 
   kontakt: {
+    coords: { lat: 47.22191, lng: 12.17546, approx: true },
     tel: "+43 (0) 6564 – 7203",
     telHref: "tel:+4365647203",
     mail: "info@krimmlerfaelle.at",
