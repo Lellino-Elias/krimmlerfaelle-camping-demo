@@ -42,7 +42,7 @@ const krimmlerfaelle: CampsiteConfig = {
     {
       title: "Familie Schöppl seit 1902",
       text: "Das Wasserfall Camping gehört zum 4-Sterne-Hotel Krimmlerfälle — Gastfreundschaft mit Pinzgauer Tradition seit über 100 Jahren.",
-      image: { src: `${IMG}/gallery-d739eb2767.webp`, alt: "Das Hotel Krimmlerfälle der Familie Schöppl im Dorf Krimml" },
+      image: { src: `${IMG}/kids-5da792a32a.webp`, alt: "Familie Schöppl — vier Generationen Gastfreundschaft im Hotel Krimmlerfälle" },
     },
   ],
 
